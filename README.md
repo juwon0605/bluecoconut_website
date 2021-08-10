@@ -24,7 +24,7 @@
 
 ​	-**맡은 역할**: 
 - 구글 맵 API 사용한 지도 형태 해양 데이터 제공 서비스 개발(map/templates/map.html, static/js/map/map.js) 
-- AWS EC2, RDS 베포 및 연동, AWS 람다 함수를 통한 AWS S3와 RDS 연동
+- AWS EC2, RDS 배포 및 연동, AWS 람다 함수를 통한 AWS S3와 RDS 연동
 
 
 ## **⦁ 구현 영상 (1분30초)**
